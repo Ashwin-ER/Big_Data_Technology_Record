@@ -1,1 +1,6 @@
 # Big_Data_Technology_Record
+
+NAME: ASHWIN ER
+DEPT: AIML A
+YEAR: 4TH YEAR
+SUBJECT CODE: (AI19741)
